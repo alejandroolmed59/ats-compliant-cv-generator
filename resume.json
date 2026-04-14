@@ -9,7 +9,7 @@
     "github": "github.com/alejandroolmed59",
     "portfolio": null
   },
-  "summary": "Backend Software Engineer with 5+ years of experience designing, building, and maintaining APIs and microservices on AWS and GCP. Proficient in TypeScript (Node.js), with a proven track record of delivering serverless, event-driven, and container-based architectures. Certified as an AWS Developer and GCP Associate Cloud Engineer with a strong foundation in software development best practices, infrastructure as code, observability, and CI/CD. A clear communicator dedicated to bridging the gap between technical requirements and product goals to ship scalable software.",
+  "summary": "Backend Software Engineer with 5 years of experience designing, building, and maintaining APIs and microservices on AWS and GCP. Proficient in TypeScript (Node.js), with a proven track record of delivering serverless, event-driven, and container-based architectures. Certified as an AWS Developer and GCP Associate Cloud Engineer with a strong foundation in software development best practices, infrastructure as code, observability, and CI/CD. A clear communicator dedicated to bridging the gap between technical requirements and product goals to ship scalable software.",
   "experience": [
     {
       "role": "Intermediate/Mid Level Software Developer",
@@ -22,6 +22,7 @@
         "Architected serverless solutions using TypeScript, AWS Lambda, DynamoDB, and API Gateway to build both end-user and platform services.",
         "Engineered a telemetry solution using InfluxDB to store and aggregate IoT devices data points, generating optimized API responses for real-time mobile application charts.",
         "Maintained microservices infrastructure using AWS CDK, ensuring adherence to DevOps best practices and CI/CD requirements.",
+        "Ensured high software reliability by implementing rigorous testing suites with Vitest, following TDD methodologies to exceed an 80% test coverage threshold.",
         "Co-led a team of engineers to build an event-driven microservice using EventBridge Bus and Scheduler for platform events and end-user scheduled routines.",
         "Orchestrated task prioritization and design reviews using Agile/Kanban methodologies, aligning technical execution with business impact.",
         "Integrated AWS CloudWatch custom metrics and alarms to monitor production environment services health and ensure high system availability.",
@@ -52,11 +53,11 @@
   ],
   "skills": [
     "System Design",
-    "Microservices",
-    "Cloud Computing",
+    "Cloud Engineer",
     "Event Driven Architecture",
     "API Development",
     "Infrastructure as Code",
+    "Test Driven Development",
     "Observability",
     "CI/CD",
     "Agile / Scrum / Kanban",
@@ -84,8 +85,10 @@
     "MongoDB",
     "InfluxDB",
     "Redis",
-    "GraphQL",
+    "RESTful APIs",
+    "GraphQL APIs",
     "Vitest",
+    "Jest",
     "Cursor IDE"
   ],
   "certifications": [

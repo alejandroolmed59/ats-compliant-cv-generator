@@ -37,7 +37,7 @@
       "bullets": [
         "Contributed to the development of a business-to-business platform used by major Canadian telecommunications companies to manage internal contractual relationships.",
         "Developed event-driven microservices using TypeScript, GCP Pub/Sub, and Firestore as the primary data store.",
-        "Implemented a Redis caching layer for a NestJS API, transitioning data retrieval from linear ($O(n)$) to constant ($O(1)$) time complexity while optimizing for scalability.",
+        "Implemented a Redis caching layer for a NestJS API, transitioning data retrieval from linear to constant time complexity while optimizing for scalability.",
         "Optimized cloud infrastructure and Kubernetes configurations using Terraform to enhance application performance and system load handling."
       ]
     }

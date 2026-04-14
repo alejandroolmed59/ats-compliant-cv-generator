@@ -9,7 +9,7 @@
     "github": "github.com/alejandroolmed59",
     "portfolio": null
   },
-  "summary": "Results-driven Senior Software Engineer with 7+ years of experience designing and delivering scalable full-stack web applications. Proven track record in React, Node.js, and cloud-native architectures on AWS and GCP. Passionate about clean code, developer experience, and building systems that scale. Skilled collaborator with cross-functional teams in fast-paced, agile environments.",
+  "summary": "I am 27 years old backend engineer with 5+ years of proffesional experience building APIs and microservices on AWS and GCP, event-driven systems, and strong engineering hygiene (IaC, CI/CD, observability). I co-lead small teams, deliver through Agile/Kanban, and prioritize clear design and maintainable code.",
   "experience": [
     {
       "role": "Intermediate/Mid Level Software Developer",
@@ -21,8 +21,9 @@
         "Envolved from the ground up in the full development cycle of a end user smart things software aimed to the canadian market",
         "Worked on a serverless architecture using Typescript as programming language and AWS Lambda, DynamodDB and API Gateway among other AWS services to build both end user and admin services",
         "Implemented a solution using InfluxDB to store end user telemetry data points, then synthetize them to create API response that are used to display time-based charts in the end user mobile app",
-        "Co-liderated a team of engineers to build an event driven microservice using EventBridge Bus and Scheduler to handle the execution on scheduled tasks set by end users and platform events",
         "Persisted microservices architecture using CDK to adhere to the Devops best practices and CICD requirements",
+        "Co-liderated a team of engineers to build an event driven microservice using EventBridge Bus and Scheduler to handle the execution on scheduled tasks set by end users and platform events",
+        "Reviewed designs, created, prioritized and assigned tasks using Agile methodologies and Kanban boards based on the business impact and the feasibility",
         "Used AWS Cloudwatch to include custom metrics and alarms to monitor the health of the services",
         "Participated in on-call engineer rotations to support the production environment and troubleshoot issues as they arise"
       ]

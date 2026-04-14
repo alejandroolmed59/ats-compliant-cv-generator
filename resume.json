@@ -1,6 +1,6 @@
 {
   "name": "Alejandro Olmedo",
-  "title": "Intermediate Software Engineer | Backend Developer| Node.js · Cloud",
+  "title": "Intermediate Software Engineer | Backend Developer | Typescript · Node.js · Cloud",
   "contact": {
     "email": "aleolmedo99@hotmail.com",
     "phone": "+503 7939 1754",
@@ -9,7 +9,7 @@
     "github": "github.com/alejandroolmed59",
     "portfolio": null
   },
-  "summary": "I'm a Backend Software Engineer with 5+ years of experience designing, building, and maintaining APIs and microservices on AWS and GCP. Proficient in TypeScript and Node.js with hands-on expertise in serverless, event-driven, and container-based architectures. AWS Certified Developer and GCP Associate Cloud Engineer with a strong foundation in infrastructure as code, observability, and CI/CD. Effective communicator who thrives in cross-functional teams, collaborating closely with product owners, designers, and fellow engineers to deliver reliable, scalable software.",
+  "summary": "Backend Software Engineer with 5+ years of experience designing, building, maintaining APIs and microservices running on AWS and GCP. Proficient in TypeScript (Node.js runtime), with a proven track record of delivering serverless, event-driven and container-based architectures. Certified as an AWS Developer and GCP Associate Cloud Engineer with a strong foundation in software development best practices, infrastructure as code, observability and CI/CD. A clear communicator dedicated to bridging the gap between technical requirements and product goals to ship scalable software.",
   "experience": [
     {
       "role": "Intermediate/Mid Level Software Developer",
@@ -53,15 +53,16 @@
   "skills": [
     "Microservices",
     "Cloud Computing",
-    "System and Database Design",    
-    "API design and development",
+    "System Design",    
+    "API development",
     "Event Driven Architecture",
+    "Monolithic Architecture",
     "Time Series Database",
     "Infrastructure as Code",
     "Agile / Scrum / Kanban",
     "CI/CD",
     "Observability",
-    "Mentoring"
+    "Leadership"
   ],
   "techStack": [
     "JavaScript",
@@ -84,6 +85,8 @@
     "Serverless functions",
     "Firestore",
     "Terraform",
+    "Cursor IDE",
+    "Claude Code",
     "Docker",
     "Kubernetes",
     "Vitest"

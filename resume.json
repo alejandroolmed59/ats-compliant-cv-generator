@@ -1,0 +1,114 @@
+{
+  "name": "Alejandro Olmedo",
+  "title": "Intermediate Software Engineer | Backend Developer| Node.js · Cloud",
+  "contact": {
+    "email": "aleolmedo99@hotmail.com",
+    "phone": "+503 7939 1754",
+    "location": "San Salvador, El Salvador",
+    "linkedin": "linkedin.com/in/jos%C3%A9-alejandro-olmedo-araniva-774715215/",
+    "github": "github.com/alejandroolmed59",
+    "portfolio": null
+  },
+  "summary": "Results-driven Senior Software Engineer with 7+ years of experience designing and delivering scalable full-stack web applications. Proven track record in React, Node.js, and cloud-native architectures on AWS and GCP. Passionate about clean code, developer experience, and building systems that scale. Skilled collaborator with cross-functional teams in fast-paced, agile environments.",
+  "experience": [
+    {
+      "role": "Senior Software Engineer",
+      "company": "TechCorp Inc.",
+      "location": "San Francisco, CA",
+      "startDate": "January 2022",
+      "endDate": "Present",
+      "bullets": [
+        "Led architecture and development of a real-time analytics dashboard serving 500k+ daily active users using React, TypeScript, and GraphQL.",
+        "Reduced API response time by 40% by migrating monolithic services to a Node.js microservices architecture deployed on AWS ECS.",
+        "Mentored 4 junior engineers through structured code reviews, pair programming sessions, and bi-weekly 1:1s.",
+        "Implemented CI/CD pipelines with GitHub Actions and Terraform, cutting deployment time from 45 minutes to under 8 minutes."
+      ]
+    },
+    {
+      "role": "Software Engineer",
+      "company": "StartupXYZ",
+      "location": "Austin, TX",
+      "startDate": "June 2019",
+      "endDate": "December 2021",
+      "bullets": [
+        "Built and maintained customer-facing React Native mobile app (iOS & Android) with 50k+ downloads.",
+        "Designed RESTful APIs and PostgreSQL schemas for a multi-tenant SaaS platform supporting 200+ enterprise clients.",
+        "Integrated third-party payment providers (Stripe, PayPal) and improved checkout conversion rate by 18%."
+      ]
+    },
+    {
+      "role": "Junior Software Engineer",
+      "company": "Digital Agency Co.",
+      "location": "Remote",
+      "startDate": "August 2017",
+      "endDate": "May 2019",
+      "bullets": [
+        "Developed responsive web applications for 10+ clients using HTML5, CSS3, JavaScript, and Vue.js.",
+        "Collaborated with designers to implement pixel-perfect UIs and improve accessibility (WCAG 2.1 AA)."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduationDate": "May 2017"
+    }
+  ],
+  "skills": [
+    "Problem Solving",
+    "System Design",
+    "Agile / Scrum",
+    "Code Review",
+    "Technical Writing",
+    "Mentoring",
+    "CI/CD",
+    "REST APIs",
+    "Microservices"
+  ],
+  "techStack": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "React Native",
+    "Node.js",
+    "Express",
+    "GraphQL",
+    "Python",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "AWS",
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "GitHub Actions",
+    "Jest",
+    "Cypress"
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "dateIssued": "2024"
+    },
+    {
+      "name": "Professional Cloud Developer",
+      "issuer": "Google Cloud",
+      "dateIssued": "2023"
+    },
+    {
+      "name": "Certified Kubernetes Application Developer",
+      "issuer": "CNCF",
+      "dateIssued": "2022"
+    }
+  ],
+  "languages": [
+    { "name": "English", "level": "Native" },
+    { "name": "Spanish", "level": "Professional" },
+    { "name": "French", "level": "Basic" }
+  ]
+}

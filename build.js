@@ -145,6 +145,12 @@ const html = `<!DOCTYPE html>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+    :root {
+      --accent-blue: #2c4a7a;
+      --link: #2d5f8d;
+      --link-hover: #1e4566;
+    }
+
     body {
       font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
       font-size: 11pt;
@@ -189,8 +195,17 @@ const html = `<!DOCTYPE html>
       line-height: 1.7;
     }
 
+    a {
+      color: var(--link);
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: var(--link-hover);
+      text-decoration: underline;
+    }
+
     .cv-header .cv-contact a {
-      color: #1a1a1a;
       text-decoration: none;
     }
 
@@ -205,7 +220,7 @@ const html = `<!DOCTYPE html>
       text-transform: uppercase;
       letter-spacing: 0.5px;
       color: #1a1a1a;
-      border-bottom: 1.5px solid #1a1a1a;
+      border-bottom: 2px solid var(--accent-blue);
       padding-bottom: 3px;
       margin-bottom: 10px;
     }

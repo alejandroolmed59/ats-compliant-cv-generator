@@ -18,10 +18,13 @@
       "startDate": "May 2024",
       "endDate": "Present",
       "bullets": [
-        "",
-        "Reduced API response time by 40% by migrating monolithic services to a Node.js microservices architecture deployed on AWS ECS.",
-        "Mentored 4 junior engineers through structured code reviews, pair programming sessions, and bi-weekly 1:1s.",
-        "Implemented CI/CD pipelines with GitHub Actions and Terraform, cutting deployment time from 45 minutes to under 8 minutes."
+        "Envolved from the ground up in the full development cycle of a end user smart things software aimed to the canadian market",
+        "Worked on a serverless architecture using Typescript as programming language and AWS Lambda, DynamodDB and API Gateway among other AWS services to build both end user and admin services",
+        "Implemented a solution using InfluxDB to store end user telemetry data points, then synthetize them to create API response that are used to display time-based charts in the end user mobile app",
+        "Co-liderated a team of engineers to build an event driven microservice using EventBridge Bus and Scheduler to handle the execution on scheduled tasks set by end users and platform events",
+        "Persisted microservices architecture using CDK to adhere to the Devops best practices and CICD requirements",
+        "Used AWS Cloudwatch to include custom metrics and alarms to monitor the health of the services",
+        "Participated in on-call engineer rotations to support the production environment and troubleshoot issues as they arise"
       ]
     },
     {
@@ -31,9 +34,9 @@
       "startDate": "February 2021",
       "endDate": "May 2024",
       "bullets": [
-        "Participated in the complete development cycle of a business to business software used by a major telecommunications company in Canada to manage their internal contractual relationships.",
-        "Developed on a microservices event driven architecture using GCP Pub/Sub messaging service and Firestore as a main database",
-        "Implemented a cache layer using Redis to greatly improve the performance of the APIs taking into account backups and scaling considerations",
+        "Participated in the development of a business to business software used by major telecommunications companies in Canada to manage their internal contractual relationships.",
+        "Developed on a microservices event driven architecture using Typescript as programming language and GCP Pub/Sub messaging service and Firestore as a main database",
+        "Implemented a cache layer using Redis to greatly improve the performance of a NestJs API taking into account backups and scaling considerations",
         "Continously worked on improving the cloud infrastructure using Terraform and adjusting the Kubernetes configuration to better suit the load of the application"
       ]
     }

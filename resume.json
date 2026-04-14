@@ -12,10 +12,10 @@
   "summary": "Results-driven Senior Software Engineer with 7+ years of experience designing and delivering scalable full-stack web applications. Proven track record in React, Node.js, and cloud-native architectures on AWS and GCP. Passionate about clean code, developer experience, and building systems that scale. Skilled collaborator with cross-functional teams in fast-paced, agile environments.",
   "experience": [
     {
-      "role": "Senior Software Engineer",
-      "company": "TechCorp Inc.",
-      "location": "San Francisco, CA",
-      "startDate": "January 2022",
+      "role": "Intermediate/Mid Level Software Developer",
+      "company": "Telus International Digital Solutions",
+      "location": "San Salvador, El Salvador",
+      "startDate": "May 2024",
       "endDate": "Present",
       "bullets": [
         "Led architecture and development of a real-time analytics dashboard serving 500k+ daily active users using React, TypeScript, and GraphQL.",
@@ -25,90 +25,80 @@
       ]
     },
     {
-      "role": "Software Engineer",
-      "company": "StartupXYZ",
-      "location": "Austin, TX",
-      "startDate": "June 2019",
-      "endDate": "December 2021",
+      "role": "Junior Software Developer",
+      "company": "Telus International Digital Solutions",
+      "location": "San Salvador, El Salvador",
+      "startDate": "February 2021",
+      "endDate": "May 2024",
       "bullets": [
         "Built and maintained customer-facing React Native mobile app (iOS & Android) with 50k+ downloads.",
         "Designed RESTful APIs and PostgreSQL schemas for a multi-tenant SaaS platform supporting 200+ enterprise clients.",
         "Integrated third-party payment providers (Stripe, PayPal) and improved checkout conversion rate by 18%."
       ]
-    },
-    {
-      "role": "Junior Software Engineer",
-      "company": "Digital Agency Co.",
-      "location": "Remote",
-      "startDate": "August 2017",
-      "endDate": "May 2019",
-      "bullets": [
-        "Developed responsive web applications for 10+ clients using HTML5, CSS3, JavaScript, and Vue.js.",
-        "Collaborated with designers to implement pixel-perfect UIs and improve accessibility (WCAG 2.1 AA)."
-      ]
     }
   ],
   "education": [
     {
-      "degree": "Bachelor of Science in Computer Science",
-      "institution": "University of California, Berkeley",
-      "location": "Berkeley, CA",
-      "graduationDate": "May 2017"
+      "degree": "Bachelor Degree in Software Engineering",
+      "institution": "Universidad Centroamericana José Simeón Cañas",
+      "location": "San Salvador, El Salvador",
+      "graduationDate": "November 2022"
     }
   ],
   "skills": [
-    "Problem Solving",
-    "System Design",
-    "Agile / Scrum",
-    "Code Review",
-    "Technical Writing",
-    "Mentoring",
+    "Microservices",
+    "Cloud Computing",
+    "System and Database Design",    
+    "API design and development",
+    "Infrastructure as Code",
+    "Agile / Scrum / Kanban",
     "CI/CD",
-    "REST APIs",
-    "Microservices"
+    "Mentoring"
   ],
   "techStack": [
     "JavaScript",
-    "TypeScript",
-    "React",
-    "Next.js",
-    "React Native",
+    "TypeScript 6",
+    "Python 3",
     "Node.js",
-    "Express",
+    "NestJS",
     "GraphQL",
-    "Python",
     "PostgreSQL",
+    "MySQL",
+    "Redis 8",
     "MongoDB",
-    "Redis",
-    "AWS",
-    "GCP",
+    "Amazon Web Services",
+    "DynamoDB",
+    "Lambda",
+    "CloudFormation",
+    "CDK",
+    "Google Cloud",
+    "Serverless functions",
+    "Firestore",
+    "Terraform",
     "Docker",
     "Kubernetes",
-    "Terraform",
-    "GitHub Actions",
-    "Jest",
-    "Cypress"
+    "Vitest"
   ],
   "certifications": [
     {
-      "name": "AWS Certified Solutions Architect",
+      "name": "AWS Certified Developer - Associate",
       "issuer": "Amazon Web Services",
-      "dateIssued": "2024"
+      "dateIssued": "November 2025"
     },
     {
-      "name": "Professional Cloud Developer",
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "dateIssued": "November 2024"
+    },
+    {
+      "name": "Google Cloud Certified Associate Cloud Engineer",
       "issuer": "Google Cloud",
-      "dateIssued": "2023"
-    },
-    {
-      "name": "Certified Kubernetes Application Developer",
-      "issuer": "CNCF",
-      "dateIssued": "2022"
+      "dateIssued": "August 2022"
     }
   ],
   "languages": [
-    { "name": "English", "level": "Native" },
-    { "name": "Spanish", "level": "Professional" },
-    { "name": "French", "level": "Basic" }
+    { "name": "English", "level": "Proficient C1" },
+    { "name": "Spanish", "level": "Native" },
+    { "name": "French", "level": "Basic A1" }
   ]
 }

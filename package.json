@@ -1,0 +1,14 @@
+{
+  "name": "ats-cv",
+  "version": "1.0.0",
+  "description": "ATS-oriented résumé pipeline: JSON → HTML → PDF",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "pdf": "node pdf.js",
+    "build:pdf": "node build.js && node pdf.js"
+  },
+  "dependencies": {
+    "puppeteer-html-pdf": "^2.0.2"
+  }
+}

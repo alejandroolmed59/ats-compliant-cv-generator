@@ -1,6 +1,6 @@
 {
   "name": "Alejandro Olmedo",
-  "title": "Intermediate Software Engineer | Backend Developer | TypeScript \u00b7 Node.js \u00b7 Cloud",
+  "title": "Intermediate Software Engineer |TypeScript \u00b7 Node.js \u00b7 Cloud \u00b7 React.js",
   "contact": {
     "email": "aleolmedo99@hotmail.com",
     "phone": "+503 7939 1754",
@@ -38,6 +38,8 @@
       "bullets": [
         "Contributed to the development of a business-to-business platform used by major Canadian telecommunications companies to manage internal contractual relationships.",
         "Developed event-driven microservices using TypeScript, GCP Pub/Sub, and Firestore as the primary data store.",
+        "Integrated backend API endpoints into a React application by translating wireframes given by the design team into functional components, leveraging React Context for state management.",
+        "Collaborated on full-stack feature development by iteratively refining the backend for the frontend to meet specific frontend data requirements",
         "Implemented a Redis caching layer for a NestJS API, transitioning data retrieval from linear to constant time complexity while optimizing for scalability.",
         "Optimized cloud infrastructure and Kubernetes configurations using Terraform to enhance application performance and system load handling."
       ]
@@ -56,18 +58,19 @@
     "Cloud Engineer",
     "Event Driven Architecture",
     "API Development",
+    "Full Stack Development",
     "Infrastructure as Code",
     "Test Driven Development",
     "Observability",
     "CI/CD",
-    "Agile / Scrum / Kanban",
-    "Leadership"
+    "Agile / Scrum / Kanban"
   ],
   "techStack": [
     "TypeScript",
     "JavaScript",
     "Python 3",
     "Node.js",
+    "React.js",
     "NestJS",
     "Amazon Web Services",
     "Google Cloud",

@@ -21,7 +21,7 @@ const options = {
   printBackground: true,
   scale: 1,
   width: "219mm",
-  height: "456mm",
+  height: "465mm",
 };
 
 HTMLToPDF.create(html, options)

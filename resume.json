@@ -9,7 +9,7 @@
     "github": "github.com/alejandroolmed59",
     "portfolio": null
   },
-  "summary": "Backend Software Engineer with 5 years of experience designing, building, and maintaining APIs and microservices on AWS and GCP. Proficient in TypeScript (Node.js), with a proven track record of delivering serverless, event-driven, and container-based architectures. Certified as an AWS Developer and GCP Associate Cloud Engineer with a strong foundation in software development best practices, infrastructure as code, observability, and CI/CD. A clear communicator dedicated to bridging the gap between technical requirements and product goals to ship scalable software.",
+  "summary": "Backend Software Engineer with 5 years of experience designing, building, and maintaining APIs and microservices on AWS and GCP. Proficient in TypeScript (Node.js) for both the server and frontend side using React.js, with a proven track record of delivering serverless, event-driven, and container-based architectures. Certified as an AWS Developer and GCP Associate Cloud Engineer with a strong foundation in software development best practices, infrastructure as code, observability, and CI/CD. A clear communicator dedicated to bridging the gap between technical requirements and product goals to ship scalable, full-stack software.",
   "experience": [
     {
       "role": "Mid Level Software Developer",
@@ -37,7 +37,7 @@
       "endDate": "May 2024",
       "bullets": [
         "Contributed to the development of a business-to-business platform used by major Canadian telecommunications companies to manage internal contractual relationships.",
-        "Developed event-driven microservices using TypeScript, GCP Pub/Sub, and Firestore as the primary data store.",
+        "Developed event-driven microservices using TypeScript, Python, GCP Pub/Sub, and Firestore as the primary data store.",
         "Optimized cloud infrastructure and Kubernetes configurations using Terraform to enhance application performance and system load handling.",
         "Implemented a Redis caching layer for a NestJS API, transitioning data retrieval from linear to constant time complexity while optimizing for scalability.",
         "Collaborated on full-stack feature development by iteratively refining the backend for the frontend to meet specific user interface data requirements.",

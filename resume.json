@@ -41,7 +41,7 @@
         "Optimized cloud infrastructure and Kubernetes configurations using Terraform to enhance application performance and system load handling.",
         "Implemented a Redis caching layer for a NestJS API, transitioning data retrieval from linear to constant time complexity while optimizing for scalability.",
         "Collaborated on full-stack feature development by iteratively refining the backend for the frontend to meet specific user interface data requirements.",
-        "Integrated backend API endpoints into a React application by translating wireframes given by the design team into functional components, leveraging React Context for state management."
+        "Integrated backend API endpoints into a Next.js React application by translating wireframes given by the design team into functional components"
       ]
     }
   ],
@@ -71,6 +71,7 @@
     "Python 3",
     "Node.js",
     "React.js",
+    "Next.js",
     "NestJS",
     "Amazon Web Services",
     "Google Cloud",
